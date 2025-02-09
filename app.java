@@ -11,6 +11,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
+
 public class Main {
     private static final Map<String, PatientDetails> patientDetailsMap = new HashMap<>();
     private static final Map<String, String> patientCredentialsMap = new HashMap<>();
